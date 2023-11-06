@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppMapTask", "WpfAppMapTask\WpfAppMapTask.csproj", "{558173AD-CEAF-486F-87E8-AB148984B51C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558173AD-CEAF-486F-87E8-AB148984B51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558173AD-CEAF-486F-87E8-AB148984B51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558173AD-CEAF-486F-87E8-AB148984B51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558173AD-CEAF-486F-87E8-AB148984B51C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F54EACD2-12E6-4B5E-9EC2-6167AF5A8E1B}
+	EndGlobalSection
+EndGlobal
